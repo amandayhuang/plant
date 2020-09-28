@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/plant/static/css/main.1140e7a9.chunk.css",
+    "main.js": "/plant/static/js/main.6bdc4249.chunk.js",
+    "main.js.map": "/plant/static/js/main.6bdc4249.chunk.js.map",
+    "runtime-main.js": "/plant/static/js/runtime-main.fccad7e1.js",
+    "runtime-main.js.map": "/plant/static/js/runtime-main.fccad7e1.js.map",
+    "static/js/2.db126794.chunk.js": "/plant/static/js/2.db126794.chunk.js",
+    "static/js/2.db126794.chunk.js.map": "/plant/static/js/2.db126794.chunk.js.map",
+    "index.html": "/plant/index.html",
+    "precache-manifest.7dddf10a24454f2b2cc235d22d000b9a.js": "/plant/precache-manifest.7dddf10a24454f2b2cc235d22d000b9a.js",
+    "service-worker.js": "/plant/service-worker.js",
+    "static/css/main.1140e7a9.chunk.css.map": "/plant/static/css/main.1140e7a9.chunk.css.map",
+    "static/js/2.db126794.chunk.js.LICENSE.txt": "/plant/static/js/2.db126794.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fccad7e1.js",
+    "static/js/2.db126794.chunk.js",
+    "static/css/main.1140e7a9.chunk.css",
+    "static/js/main.6bdc4249.chunk.js"
+  ]
+}
